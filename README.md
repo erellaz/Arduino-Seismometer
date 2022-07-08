@@ -1,2 +1,2 @@
-# Arduino-Seismometer
-Arduino based seismo meter.
+# Arduino Seismometer
+Arduino based seismometer.
