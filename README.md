@@ -6,7 +6,7 @@ Arduino based seismometer.
 - Optional operational amplifier in following mode to insure the Arduino side shows a very high impedance to the geophone.
 
 This project is till "sketchy" and would deserve a complete write up and an "instructable" presentation. In the meantime, the main sketches and scripts are here.
-For simplicity, average performance use the simple tension divider. For excellent performances, add the operational amplifier (follower mode), making this a better and only slightly more involved built. 
+For simplicity, average performance use the simple tension divider. For excellent performances, add the operational amplifier (for example an LM 338) in follower mode, making this a better and only slightly more involved built. 
 
 ![Tension diviser sketch - very simple](ArduinoSeis_clean.jpg)
 Tension diviser sketch - very simple.
