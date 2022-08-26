@@ -8,9 +8,15 @@ This project would deserve a complete write up and an "instructable" presentatio
 For simplicity, average performance use the tension divider. For excellent performances, use the operational amplifier (follower mode) solution, just slightly more involved to build. 
 
 ![Tension diviser sketch - very simple](ArduinoSeis_clean.jpg)
-![Operational amplifier sketch - slightly more advanced but better performances](Arduino_seismograph1.jpg)
-![Operational amplifier sketch - 3 or 4 channels, for 3 geophone components + hydrophone component](Arduino_seismograph2.jpg)
-![Capacitor sketch- an alternative, simple high impedence solution](Arduino_seismograph3.jpg)
+Tension diviser sketch - very simple.
 
+![Operational amplifier sketch - slightly more advanced but better performances](Arduino_seismograph1.jpg)
+Operational amplifier sketch - slightly more advanced but better performances.
+
+![Operational amplifier sketch - 3 or 4 channels, for 3 geophone components + hydrophone component](Arduino_seismograph2.jpg)
+Operational amplifier sketch - 3 or 4 channels, for 3 geophone components + hydrophone component.
+
+![Capacitor sketch- an alternative, simple high impedence solution](Arduino_seismograph3.jpg)
+Capacitor sketch- an alternative, simple high impedence solution.
 
 
