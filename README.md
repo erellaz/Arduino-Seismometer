@@ -5,7 +5,7 @@ Arduino based seismometer.
 - External voltage divider to read both positive and negative voltage from the Geophone, as the Arduinos otherwise only reads positive voltage.
 - Optional operational amplifier in following mode to insure the Arduino side shows a very high impedance to the geophone.
 
-This project is till "sketchy" and would deserve a complete write up and an "instructable" presentation. In the meantime, the main sketches and scripts are here.
+This project is still "sketchy" and would deserve a complete write up and an "instructable" presentation. In the meantime, the main sketches and scripts are here.
 For simplicity, average performance use the simple tension divider. For excellent performances, add an operational amplifier able to operate at low voltage (for example an LM 358) in follower mode, making this a better and only slightly more involved built. 
 
 ![Tension diviser sketch - very simple](ArduinoSeis_clean.jpg)
