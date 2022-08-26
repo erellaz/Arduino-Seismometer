@@ -3,6 +3,7 @@ Arduino based seismometer.
 - Arduino ZeroMkr board (with SD Card slot for records saving), ZeroMKR board also has the highest (12 bits) Analog to Digital converter resolution of all current boards.
 - GPS-MKR shield for precise timing of the events recorded and position of the module 
 - External voltage divider to read both positive and negative voltage from the Geophone, as the Arduinos otherwise only reads positive voltage.
+- Optional operational amplifier in following mode to insure the Arduino side shows a very high impedance to the geophone.
 
 This project would deserve a complete write up and an "instructable" presentation. In the meantime, the main sketches and scripts are here.
 For simplicity, average performance use the tension divider. For excellent performances, use the operational amplifier (follower mode) solution, just slightly more involved to build. 
